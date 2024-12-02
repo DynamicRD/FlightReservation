@@ -95,14 +95,20 @@
 
 
 ### 💻 실행 화면
-메인화면
+메인화면  
 <img src="https://github.com/DynamicRD/FlightReservation/blob/dev/db/%EC%8B%A4%ED%96%891.png"/>
-</br>
-마일리지에 따라 등급을 출력
+<br>
+<br>
+<br>
+마일리지에 따라 등급을 출력  
 <img src="https://github.com/DynamicRD/FlightReservation/blob/dev/db/%EC%8B%A4%ED%96%892.png"/>
-</br>
-항공편 가격을 10% 인상
+<br>
+<br>
+<br>
+항공편 가격을 10% 인상  
 <img src="https://github.com/DynamicRD/FlightReservation/blob/dev/db/%EC%8B%A4%ED%96%893.png"/>
-</br>
-모든 테이블 조인해서 출력
+<br>
+<br>
+<br>
+모든 테이블 조인해서 출력  
 <img src="https://github.com/DynamicRD/FlightReservation/blob/dev/db/%EC%8B%A4%ED%96%894.png"/>

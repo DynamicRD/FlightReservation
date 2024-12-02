@@ -30,3 +30,7 @@ classes/
 built/
 .*
 !.gitignore
+
+*.properties
+*.metadata
+*.png
